@@ -1,3 +1,5 @@
+[![TWSLogo](https://github.com/Tobiwan-Cloud-Solutions/images/blob/main/TWSBannerGHLogo.png)](https://apadams.github.io)
+
 # AI Safety Blocklist (Community Edition)
 
 > **Status:** Active & Maintained
@@ -28,7 +30,7 @@ This list is designed for security engineers, network administrators, and privac
 1.  Go to your Adlists / Blocklists settings.
 2.  Add the following URL:
     ```
-    [https://raw.githubusercontent.com/](https://raw.githubusercontent.com/)Tobiwan-Cloud-Solutions/ai-safety-blocklist/main/shadow-ai-lite.txt
+    https://raw.githubusercontent.com/Tobiwan-Cloud-Solutions/ai-safety-blocklist/main/shadow-ai-lite.txt
     ```
 
 ### Palo Alto / Fortinet (External Dynamic List)
@@ -38,3 +40,7 @@ This list is designed for security engineers, network administrators, and privac
 This list is generated via automated analysis of public launch data (Hacker News, Reddit, GitHub). While we strive for accuracy, false positives may occur. Use at your own risk.
 
 **[Submit a False Positive](https://github.com/Tobiwan-Cloud-Solutions/ai-safety-blocklist/issues)**
+
+### If you like this project, please consider supporting me.
+[![Buy Me A Coffee](https://img.shields.io/badge/Fuel_the_Engine-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/apadams)
+
