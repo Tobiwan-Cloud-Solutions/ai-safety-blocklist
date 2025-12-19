@@ -1,10 +1,15 @@
-# Daily Threat Intelligence Stats
+# Weekly Shadow AI Finds
 
-Daily Threat Report: We have identified 1779 domains...
+🛡️ New domains/tools identified: 515
 
-**Top Sources:**
-- Hacker News: 1516
-- Reddit: 263
+**Primary Vector:** Hacker News (1516)
+
+**Top Hosting Providers:**
+- Cloudflare: 391
+- AWS: 113
+- Vercel: 107
+- GCP: 50
+- sites.framer.app.: 22
 
 **Weird Finds:**
 - polygpt.app
@@ -13,4 +18,4 @@ Daily Threat Report: We have identified 1779 domains...
 - gptapp.dev
 - railgpt.app
 
-_Last Updated: Fri, 19 Dec 2025 02:52:04 UTC_
+_Last Updated: Fri, 19 Dec 2025 03:03:14 UTC_
