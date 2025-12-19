@@ -2,20 +2,18 @@
 
 🛡️ New domains/tools identified: 515
 
-**Primary Vector:** Hacker News (1516)
+**Primary Vector:** Tech Aggregators (402)
 
-**Top Hosting Providers:**
-- Cloudflare: 391
-- AWS: 113
-- Vercel: 107
-- GCP: 50
-- sites.framer.app.: 22
+**Top Hosting Infrastructure:**
+- Cloudflare: 69
+- AWS: 39
+- Vercel: 35
+- GCP: 17
+- cdn-185-199-108-153.github.com.: 10
 
 **Weird Finds:**
-- polygpt.app
-- yourgpt.ai
-- facegpt.io
-- gptapp.dev
-- railgpt.app
+- cheapgpts.store
+- gptimage15.app
+- gpt-clicker.pixdeo.com
 
-_Last Updated: Fri, 19 Dec 2025 03:03:14 UTC_
+_Last Updated: Fri, 19 Dec 2025 03:10:12 UTC_
