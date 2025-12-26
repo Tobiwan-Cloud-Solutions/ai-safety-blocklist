@@ -1,19 +1,17 @@
 # Weekly Shadow AI Finds
 
-🛡️ New domains/tools identified: 515
+🛡️ New domains/tools identified: 214
 
-**Primary Vector:** Tech Aggregators (402)
+**Primary Vector:** Unverified Developer Forums (118)
 
 **Top Hosting Infrastructure:**
-- Cloudflare: 69
-- AWS: 39
-- Vercel: 35
-- GCP: 17
-- cdn-185-199-108-153.github.com.: 10
+- Cloudflare: 32
+- AWS: 11
+- Vercel: 9
+- cdn-185-199-108-153.github.com.: 9
+- GCP: 6
 
 **Weird Finds:**
-- cheapgpts.store
-- gptimage15.app
-- gpt-clicker.pixdeo.com
+- gpt2image.io
 
-_Last Updated: Fri, 19 Dec 2025 05:30:36 UTC_
+_Last Updated: Fri, 26 Dec 2025 05:30:58 UTC_
