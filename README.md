@@ -16,7 +16,7 @@ This list is designed for security engineers, network administrators, and privac
 
 ## What's Included (Lite vs. Pro)
 
-| Feature | **Community Edition** (This Repo) | **Enterprise Feed** |
+| Feature | **Community Edition** (This Repo) | **Enterprise Feed (Sponsor for Access** |
 | :--- | :--- | :--- |
 | **Volume** | Top 500 (High Confidence) | Full Database (2,000+) |
 | **Update Speed** | Weekly | Real-time (Daily) |
