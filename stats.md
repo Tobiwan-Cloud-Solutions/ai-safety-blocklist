@@ -1,21 +1,14 @@
 # Weekly Shadow AI Finds
 
-🛡️ New domains/tools identified: 324
+🛡️ New domains/tools identified: 128
 
-**Primary Vector:** GitHub (224)
+**Primary Vector:** Reddit (r/SideProject) (66)
 
 **Top Hosting Infrastructure:**
-- Cloudflare: 32
-- AWS: 32
-- Vercel: 21
-- cdn-185-199-108-153.github.com.: 12
-- cdn-185-199-110-153.github.com.: 11
+- AWS: 12
+- Cloudflare: 10
+- Vercel: 7
+- GCP: 5
+- cdn-185-199-109-153.github.com.: 4
 
-**Weird Finds:**
-- app.openocean.finance
-- gpt.gekko.de
-- next-js-chatgpt-omega.vercel.app
-- quick-gpt-ochre.vercel.app
-- btb.finance
-
-_Last Updated: Fri, 02 Jan 2026 05:34:17 UTC_
+_Last Updated: Fri, 09 Jan 2026 05:33:51 UTC_
