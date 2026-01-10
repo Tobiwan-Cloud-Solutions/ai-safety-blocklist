@@ -178,7 +178,6 @@ splitit-amber.vercel.app
 bolt.new
 foundershook.com
 serno.ai
-gruntless.work
 vrykol.com
 lblander.vercel.app
 understandable.vercel.app
