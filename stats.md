@@ -1,14 +1,17 @@
 # Weekly Shadow AI Finds
 
-🛡️ New domains/tools identified: 142
+🛡️ New domains/tools identified: 150
 
-**Primary Vector:** Reddit (r/SideProject) (77)
+**Primary Vector:** Reddit (r/SideProject) (85)
 
 **Top Hosting Infrastructure:**
-- Cloudflare: 15
-- AWS: 10
-- Vercel: 6
-- GCP: 5
+- Cloudflare: 19
+- AWS: 11
+- Vercel: 9
+- cdn-185-199-110-153.github.com.: 6
 - cdn-185-199-111-153.github.com.: 4
 
-_Last Updated: Sat, 10 Jan 2026 12:40:03 UTC_
+**Weird Finds:**
+- kapitalgpt.ai
+
+_Last Updated: Fri, 16 Jan 2026 05:33:32 UTC_
