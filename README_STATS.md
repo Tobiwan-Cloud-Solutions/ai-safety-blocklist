@@ -1,11 +1,11 @@
 # Shadow AI Threat Feed Stats
 
-**Last Updated:** Fri, 16 Jan 2026 05:33:32 UTC
+**Last Updated:** Fri, 23 Jan 2026 05:36:21 UTC
 
 ## Overview
-- **Total Threats Tracked:** 2595
-- **High Risk (Published):** 2339
-- **Medium Risk:** 256
+- **Total Threats Tracked:** 2750
+- **High Risk (Published):** 2452
+- **Medium Risk:** 298
 - **Low Risk:** 0
 
 ## Community Edition
